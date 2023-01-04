@@ -1,2 +1,7 @@
 const root = ReactDOM.createRoot(document.getElementById("root"))
-root.render(<h1>Hello, everyone</h1>)
+root.render(
+	<ul>
+		<li>list item 1</li>
+    <li>list item 2</li>
+	</ul>
+)
